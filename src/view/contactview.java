@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class ContactView {
     private final Scanner sc; = new Scanner(System.in);
+    private final ContactView contactView
+
 
     private final ContactService service;
 
@@ -54,4 +56,15 @@ public class ContactView {
     private void readAll() {
         System.out.println("[ContactView.""Read All"()];
     }
-}
+    {
+    //이름 나이 , 전화번호 입1력받아서 서비스
+    String  name;
+    int age;
+    System phone;
+    sout ("이름 " ) ;
+    //받은 값들을 서비스  컴텍트 서비스 . 인설트  전달\ }
+        contactView instanceof ? (name,age,phone contactView) : null;
+
+
+
+
